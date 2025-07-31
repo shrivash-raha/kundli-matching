@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kundli-matching/static/css/main.e6c13ad2.css",
+    "main.js": "/kundli-matching/static/js/main.480f2852.js",
+    "static/js/453.d1393272.chunk.js": "/kundli-matching/static/js/453.d1393272.chunk.js",
+    "index.html": "/kundli-matching/index.html",
+    "main.e6c13ad2.css.map": "/kundli-matching/static/css/main.e6c13ad2.css.map",
+    "main.480f2852.js.map": "/kundli-matching/static/js/main.480f2852.js.map",
+    "453.d1393272.chunk.js.map": "/kundli-matching/static/js/453.d1393272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.480f2852.js"
+  ]
+}
