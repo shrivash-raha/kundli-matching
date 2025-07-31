@@ -15,7 +15,7 @@ function App() {
     setResult(null);
 
     try {
-      const response = await axios.post("http://127.0.0.1:5000/api/match", data);
+      const response = await axios.post("http://150.230.142.32:5001/api/match", data);
       setResult(response.data);
     } catch (err) {
       setError("Something went wrong. Make sure the backend is running.");

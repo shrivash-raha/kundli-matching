@@ -1,0 +1,7 @@
+Flask
+flask-cors
+geopy
+timezonefinder
+pytz
+certifi
+pyswisseph
